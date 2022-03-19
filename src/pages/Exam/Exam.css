@@ -1,0 +1,15 @@
+.exam .paper .question{
+    text-align: left;
+    margin-bottom: 15px;
+}
+.exam .paper .options{
+    text-align: left;
+    margin-bottom: 25px;
+}
+.exam .paper .options label{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
